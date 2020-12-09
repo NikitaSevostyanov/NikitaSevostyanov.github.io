@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0300</lastBuildDate><atom:link href="https://nikitasevostyanov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>RaceCarJ Project</title>
+      <link>https://nikitasevostyanov.github.io/portfolio/racecarj-project/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://nikitasevostyanov.github.io/portfolio/racecarj-project/</guid>
+      <description>Description: Here is the link:
+RacecarJ project - running some algorithms in Gazebo</description>
+    </item>
+    
+    <item>
       <title>Simulation in MATLAB of a vertical walking three-link robot</title>
       <link>https://nikitasevostyanov.github.io/blog/walking_robot_publ/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0300</pubDate>
