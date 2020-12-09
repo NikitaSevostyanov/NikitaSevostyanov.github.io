@@ -3,120 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/blog/</loc>
-    <lastmod>2020-06-25T00:00:00+03:00</lastmod>
+    <loc>https://nikitasevostyanov.github.io/blog/</loc>
+    <lastmod>2019-12-17T00:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/blog/"
+                hreflang="ru"
+                href="https://nikitasevostyanov.github.io/ru/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/"
+                href="https://nikitasevostyanov.github.io/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/blog/krabby_patty/</loc>
-    <lastmod>2020-06-25T00:00:00+03:00</lastmod>
+    <loc>https://nikitasevostyanov.github.io/</loc>
+    <lastmod>2019-12-17T00:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/blog/krabby_patty/"
+                hreflang="ru"
+                href="https://nikitasevostyanov.github.io/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/krabby_patty/"
+                href="https://nikitasevostyanov.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2020-06-25T00:00:00+03:00</lastmod>
+    <loc>https://nikitasevostyanov.github.io/tags/publication/</loc>
+    <lastmod>2019-12-17T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikitasevostyanov.github.io/blog/walking_robot_publ/</loc>
+    <lastmod>2019-12-17T00:00:00+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikitasevostyanov.github.io/tags/</loc>
+    <lastmod>2019-12-17T00:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.com/it/"
+                hreflang="ru"
+                href="https://nikitasevostyanov.github.io/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://nikitasevostyanov.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/recipe/</loc>
-    <lastmod>2020-06-25T00:00:00+03:00</lastmod>
+    <loc>https://nikitasevostyanov.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/tags/recipe/"
+                hreflang="ru"
+                href="https://nikitasevostyanov.github.io/ru/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/recipe/"
+                href="https://nikitasevostyanov.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2020-06-25T00:00:00+03:00</lastmod>
+    <loc>https://nikitasevostyanov.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.com/it/tags/"
+                hreflang="ru"
+                href="https://nikitasevostyanov.github.io/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://example.com/it/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/categories/"
+                href="https://nikitasevostyanov.github.io/categories/"
                 />
   </url>
   

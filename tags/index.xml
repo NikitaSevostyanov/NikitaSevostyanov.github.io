@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Medium</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on Medium</description>
+    <title>Tags on Nikita Sevostianov</title>
+    <link>https://nikitasevostyanov.github.io/tags/</link>
+    <description>Recent content in Tags on Nikita Sevostianov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0300</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0300</lastBuildDate><atom:link href="https://nikitasevostyanov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>recipe</title>
-      <link>https://example.com/tags/recipe/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0300</pubDate>
+      <title>publication</title>
+      <link>https://nikitasevostyanov.github.io/tags/publication/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0300</pubDate>
       
-      <guid>https://example.com/tags/recipe/</guid>
+      <guid>https://nikitasevostyanov.github.io/tags/publication/</guid>
       <description></description>
     </item>
     
