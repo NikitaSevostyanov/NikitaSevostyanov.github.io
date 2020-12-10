@@ -6,26 +6,36 @@
     <description>Recent content on Nikita Sevostianov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0300</lastBuildDate><atom:link href="https://nikitasevostyanov.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0300</lastBuildDate><atom:link href="https://nikitasevostyanov.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Krabby Patty recipe</title>
-      <link>https://nikitasevostyanov.github.io/ru/blog/krabby_patty/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0300</pubDate>
+      <title>Проект RaceCarJ</title>
+      <link>https://nikitasevostyanov.github.io/ru/portfolio/racecarj-project/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0300</pubDate>
       
-      <guid>https://nikitasevostyanov.github.io/ru/blog/krabby_patty/</guid>
-      <description>Ingredients: For 4 people :
- Lots of love 2 cans of crab meat 1 lightly beaten egg 1/2 lemon juice Breadcrumbs 1 tomato Hamburger bread Pickles 1 onion 4 salad leaves Frying oil Salt pepper  For the sauce:
- Worcestershire sauce Ketchup Mustard  Steps :   In a bowl, beat 1 egg then add the crabmeat, breadcrumbs, lemon juice, salt and pepper. Mix until you get a homogeneous consistency.</description>
+      <guid>https://nikitasevostyanov.github.io/ru/portfolio/racecarj-project/</guid>
+      <description>Описание: Этот проект основан на проекте RACECARJ, созданном в Массачусетском технологическом институте (MIT).
+Цель этого проекта - разработать автономный мобильный автомобиль и сгенерировать код для реального мобильного автомобиля, который может двигаться в соответствии с командами оператора, избегая возможных препятствий (с использованием алгоритма обхождения препятствий) и алгоритма следования по пути. Также в этом проекте были разработаны и реализованы следующие алгоритмы: Алгоритм локализации Монте-Карло - для определения местоположения автомобиля на текущей территории на основе карты, полученной методом SLAM (Simulteneous Localization and Mapping), также реализовано управление джойстиком.</description>
     </item>
     
     <item>
-      <title>About me</title>
+      <title>Моделирование вертикально-шагающего трехзвенного робота в MATLAB</title>
+      <link>https://nikitasevostyanov.github.io/ru/blog/walking_robot_publ/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://nikitasevostyanov.github.io/ru/blog/walking_robot_publ/</guid>
+      <description>Описание: Эта статья посвящена изучению, проектированию и разработке робота вертикального перемещения, задача которого - перемещение по стенам, смежным плоскостям и зданиям. Реальная модель робота должна быть представлена ​​в Технопарке МГТУ им. Баумана. Рассмотрена и подтверждена актуальность изучения, исследования и разработки вертикальных роботов, выполняющих широкий спектр задач в различных областях. Библиотека SimMechanics и ее элементы были изучены для построения модели робота. Далее в MATLAB была разработана компьютерная модель трехзвенного вертикально шагающего робота, в целом показывающая принцип работы таких роботов.</description>
+    </item>
+    
+    <item>
+      <title>Обо мне</title>
       <link>https://nikitasevostyanov.github.io/ru/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nikitasevostyanov.github.io/ru/about/</guid>
-      <description>I&amp;rsquo;m a sea sponge who works as a fry cook at the Krusty Krab: The Krusty Krabe is a fast food restaurant known for it&amp;rsquo;s signature burger:
-The Krabby PattyTry to make one yourself and you will be as happy as I am. My first Krabby PattyYou can take a look at the recipe here.</description>
+      <description>Кратко обо мне:
+Закончил МГТУ им.Н.Э.Баумана, защитив диплом на “отлично”, являлся лучшим студентом факультета на 4-ом курсе и также был именным стипендиатом правительства Москвы, работал волонтером на праздничных и прочих мероприятиях.
+Руководствуюсь принципами тайм-менеджмента и организовываю все свои дела с помощью календаря, веду учет дел, чтобы выполнять поставленные задачи в срок, что позволило мне отлично закончить МГТУ и поступить в Innopolis University.
+В Innopolis University я познакомился с людьми из других стран, что позволило мне улучшить мои навыки в английском языке.</description>
     </item>
     
   </channel>

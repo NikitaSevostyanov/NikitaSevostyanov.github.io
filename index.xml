@@ -6,15 +6,15 @@
     <description>Recent content on Nikita Sevostianov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0300</lastBuildDate><atom:link href="https://nikitasevostyanov.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0300</lastBuildDate><atom:link href="https://nikitasevostyanov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RaceCarJ Project</title>
       <link>https://nikitasevostyanov.github.io/portfolio/racecarj-project/</link>
-      <pubDate>Tue, 17 Dec 2019 00:00:00 +0300</pubDate>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0300</pubDate>
       
       <guid>https://nikitasevostyanov.github.io/portfolio/racecarj-project/</guid>
-      <description>Description: Here is the link:
-RacecarJ project - running some algorithms in Gazebo</description>
+      <description>Description: This project is based on the RACECAR/J project, created at the Massachusetts Institute of Technology (MIT).
+The goal of this project is to design an autonomous mobile car and generate code for real mobile car that can drive according to the operator&amp;rsquo;scommands, avoiding possible obstacles (using obstacle avoidance algorithm) and path following algorithm. Also in this project the following algorithms were developed and implemented: Monte Carlo localization algorithm- to determine the location of the car in current territory based on a map created by the SLAM method (Simulteneous Localization and Mapping), joystick control is also implemented.</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://nikitasevostyanov.github.io/about/</guid>
-      <description>Here is a little story about mysefl:
+      <description>Here is a little story about myself:
 As a student of BMSTU I was guided by the principles of time management and organized every necessary task, made my own calendar to track tasks, which allowed me to get good grades and get an excellent reputation with teachers. Also I defended my diploma perfectly and I was in the lists of the best students of the faculty at the 4th year of studying.</description>
     </item>
     

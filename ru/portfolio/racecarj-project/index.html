@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang='en'>
+<html lang='ru'>
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name=viewport content="width=device-width, initial-scale=1">
 
-<meta name="description" content="This article focuses on the study, design and development of a vertical movement robot, whose task is moving along walls, adjacent planes and buildings." />
+<meta name="description" content="Эта статья посвящена изучению, проектированию и разработке автономного мобильного транспортного средства с использованием инструментов MATLAB и Simulink." />
 
 <title>
 	Nikita Sevostianov
-	 - Simulation in MATLAB of a vertical walking three-link robot 
+	 - Проект RaceCarJ 
 </title>
 
 
@@ -27,11 +27,6 @@
 
 
 
-
-
-
-<link rel="stylesheet" href="https://nikitasevostyanov.github.io/css/syntax.min.bb1b567de4651428ffd1a37a1d2bfba6.css" crossorigin="anonymous"
-	integrity="md5-uxtWfeRlFCj/0aN6HSv7pg==" media="screen">
 
 
 
@@ -80,7 +75,7 @@
 <header class="w-full flex items-center justify-between px-5 mx-auto md:mt-8 md:max-w-5xl pt-2 md:pt-0">
 	
 	<div class="flex items-center">
-		<a href="https://nikitasevostyanov.github.io/" class="inline-block font-bold no-underline select-none">
+		<a href="https://nikitasevostyanov.github.io/ru/" class="inline-block font-bold no-underline select-none">
 			<h1 class="hidden md:block font-charter tracking-normal m-0">
 				Nikita Sevostianov
 			</h1>
@@ -96,9 +91,9 @@
 		
 		<div class="inline-block pl-2 ml-2 border-l border-gray-600">
 			
-			<a href="https://nikitasevostyanov.github.io/ru/blog/walking_robot_publ/" class="no-underline inline-block px-1">
+			<a href="https://nikitasevostyanov.github.io/portfolio/racecarj-project/" class="no-underline inline-block px-1">
 				<span class="font-bold">
-					RU
+					EN
 				</span>
 			</a>
 			
@@ -109,15 +104,15 @@
 	<nav class="">
 		
 		<a href="/" class='mx-1 md:mx-2 hover:text-black no-underline'>
-			 Home
+			 Главная
 		</a>
 		
 		<a href="/blog/" class='mx-1 md:mx-2 hover:text-black no-underline'>
-			 Blog
+			 Блог
 		</a>
 		
 		<a href="/#contact" class='mx-1 md:mx-2 hover:text-black no-underline'>
-			 Contact
+			 Контакты
 		</a>
 		
 	</nav>
@@ -126,19 +121,22 @@
 
 	<main class="w-full px-4 pt-8 mx-auto md:max-w-4xl overflow-x-hidden md:overflow-visible ">
 <button onclick="window.history.back()"
-	class="bg-transparent border-none font-bold">&larr;Back</button>
+	class="bg-transparent border-none font-bold">&larr;Назад</button>
 <h1 class="text-center mx-auto max-w-4xl text-4xl sm:text-5xl md:text-6xl">
-	Simulation in MATLAB of a vertical walking three-link robot
+	Проект RaceCarJ
 </h1>
 
 <h2 class="text-center font-serif font-thin mx-auto mb-16 max-w-4xl text-4xl">
-	AIP Conference Proceedings
+	Автономный мобильный автомобиль
 </h2>
 
 <div class="text-justify leading-loose mb-12 text-lg">
-	<h2 id="description">Description:</h2>
-<p>This article focuses on the study, design and development of a vertical movement robot, whose task is moving along walls, adjacent planes and buildings. The real model of the robot should be presented in the Techno Park of the Bauman Moscow State Technical University. There was reviewed and proved the relevance of the studying, researching and development of vertical robots that perform a wide range of tasks in various fields. SimMechanics library and its elements were studied to build a model of the robot. Further, a computer model of a three-link vertical walking robot was developed in the MATLAB, generally showing the principle of operation of such robots. Later, on the basis of a given linear velocity of the center of mass of the vertical movement robot, the angular velocities of the hinges were determined. Equations were also compiled for calculating the required drive torques in order to verify the correctness of the calculation of the latter in the MATLAB. To implement the received moments and angular velocities, engines and gears were selected for rotating the links. A simulation of the motion of a vertically walking robot was carried out using the Simulink’s SimMechanics library in the MATLAB.</p>
-<p>Here is the link:</p>
+	<h2 id="описание">Описание:</h2>
+<p>Этот проект основан на проекте RACECARJ, созданном в Массачусетском технологическом институте (MIT).</p>
+<p>Цель этого проекта - разработать автономный мобильный автомобиль и сгенерировать код для реального мобильного автомобиля, который может двигаться в соответствии с командами оператора, избегая возможных препятствий (с использованием алгоритма обхождения препятствий) и алгоритма следования по пути.
+Также в этом проекте были разработаны и реализованы следующие алгоритмы:
+Алгоритм локализации Монте-Карло - для определения местоположения автомобиля на текущей территории на основе карты, полученной методом SLAM (Simulteneous Localization and Mapping), также реализовано управление джойстиком.</p>
+<p>Вот ссылка на первую статью, посвященную этому проекту::</p>
 <p>
 
 
@@ -146,10 +144,10 @@
 
 
 
-<a href="https://aip.scitation.org/doi/epdf/10.1063/1.5140108" 
+<a href="https://hub.exponenta.ru/post/proekt-racecar-otlazhivaem-algoritmy-v-gazebo933" 
 	class="underline break-words"  target="_blank" rel="noopener"
 	>
-	Simulation in MATLAB of a vertical walking three-link robot
+	Проект RACECAR - Отлаживаем алгоритмы в Gazebo
 </a></p>
 
 </div>
@@ -191,7 +189,7 @@
 
 	<div class="absolute bottom-0 w-full"><footer class="w-full h-24 text-center text-xs text-gray-400 bg-black relative">
 	<div class="w-full px-6 md:pt-0 md:mx-auto md:max-w-5xl flex flex-1 space-between items-center absolute-center">
-		<a href="https://nikitasevostyanov.github.io/" class="absolute">
+		<a href="https://nikitasevostyanov.github.io/ru/" class="absolute">
 			<div class="w-8 h-8 relative font-bold bg-white blend-diff">
 	<h1 class="absolute-center m-0 font-charter text-2xl text-gray-100 blend-diff select-none">
 		N

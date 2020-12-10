@@ -6,13 +6,22 @@
     <description>Recent content in Tags on Nikita Sevostianov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0300</lastBuildDate><atom:link href="https://nikitasevostyanov.github.io/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0300</lastBuildDate><atom:link href="https://nikitasevostyanov.github.io/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>recipe</title>
-      <link>https://nikitasevostyanov.github.io/ru/tags/recipe/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0300</pubDate>
+      <title>projects</title>
+      <link>https://nikitasevostyanov.github.io/ru/tags/projects/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0300</pubDate>
       
-      <guid>https://nikitasevostyanov.github.io/ru/tags/recipe/</guid>
+      <guid>https://nikitasevostyanov.github.io/ru/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publications</title>
+      <link>https://nikitasevostyanov.github.io/ru/tags/publications/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://nikitasevostyanov.github.io/ru/tags/publications/</guid>
       <description></description>
     </item>
     
