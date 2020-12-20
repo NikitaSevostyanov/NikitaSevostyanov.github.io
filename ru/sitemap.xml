@@ -3,150 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nikitasevostyanov.github.io/ru/</loc>
-    <lastmod>2020-04-16T00:00:00+03:00</lastmod>
+    <loc>https://nikultimo.github.io/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nikitasevostyanov.github.io/"
+                href="https://nikultimo.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://nikitasevostyanov.github.io/ru/"
+                href="https://nikultimo.github.io/ru/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://nikitasevostyanov.github.io/ru/tags/projects/</loc>
-    <lastmod>2020-04-16T00:00:00+03:00</lastmod>
+    <loc>https://nikultimo.github.io/ru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nikitasevostyanov.github.io/tags/projects/"
+                href="https://nikultimo.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://nikitasevostyanov.github.io/ru/tags/projects/"
+                href="https://nikultimo.github.io/ru/"
                 />
   </url>
   
   <url>
-    <loc>https://nikitasevostyanov.github.io/ru/tags/</loc>
-    <lastmod>2020-04-16T00:00:00+03:00</lastmod>
+    <loc>https://nikultimo.github.io/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nikitasevostyanov.github.io/tags/"
+                href="https://nikultimo.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://nikitasevostyanov.github.io/ru/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nikitasevostyanov.github.io/ru/portfolio/</loc>
-    <lastmod>2020-04-16T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nikitasevostyanov.github.io/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://nikitasevostyanov.github.io/ru/portfolio/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nikitasevostyanov.github.io/ru/portfolio/racecarj-project/</loc>
-    <lastmod>2020-04-16T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nikitasevostyanov.github.io/portfolio/racecarj-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://nikitasevostyanov.github.io/ru/portfolio/racecarj-project/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nikitasevostyanov.github.io/ru/tags/publications/</loc>
-    <lastmod>2019-12-17T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nikitasevostyanov.github.io/tags/publications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://nikitasevostyanov.github.io/ru/tags/publications/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nikitasevostyanov.github.io/ru/blog/walking_robot_publ/</loc>
-    <lastmod>2019-12-17T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nikitasevostyanov.github.io/blog/walking_robot_publ/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://nikitasevostyanov.github.io/ru/blog/walking_robot_publ/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nikitasevostyanov.github.io/ru/blog/</loc>
-    <lastmod>2019-12-17T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nikitasevostyanov.github.io/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://nikitasevostyanov.github.io/ru/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nikitasevostyanov.github.io/ru/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nikitasevostyanov.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://nikitasevostyanov.github.io/ru/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nikitasevostyanov.github.io/ru/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nikitasevostyanov.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://nikitasevostyanov.github.io/ru/about/"
+                href="https://nikultimo.github.io/ru/tags/"
                 />
   </url>
   

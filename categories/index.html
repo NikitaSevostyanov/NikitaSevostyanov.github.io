@@ -1,190 +1,282 @@
 <!DOCTYPE html>
-<html lang='en'>
-
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name=viewport content="width=device-width, initial-scale=1">
-
-
-
-<meta name="description" content="Boilerplate website" />
+<html>
+  <head>
+    <title>Categories</title>
+    <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
 
-
-<title>
-	Nikita Sevostianov
-	 - Categories 
-</title>
-
-<link href="https://nikitasevostyanov.github.io/categories/index.xml" rel="alternate" type="application/rss+xml" title="Nikita Sevostianov" />
+<link rel="stylesheet" href="/assets/css/bootstrap.min.css"/>
+<link rel="stylesheet" href="/assets/css/layouts/main.css"/>
+<link rel="stylesheet" href="/assets/css/style.css"/>
+<link rel="stylesheet" href="/assets/css/navigators/navbar.css"/>
 
 
+<link href="https://fonts.googleapis.com/css2?family=Muli:wght@300;400;500;600" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" />
 
-<link rel="icon" href="/favicon.png">
 
+<link rel="icon" type="image/png" href="/images/site/Logo.png" />
+
+
+<link rel="stylesheet" href="/assets/css/style.css"/>
+
+    
+    <link rel="stylesheet" href="/assets/css/layouts/list.css">
+    <link rel="stylesheet" href="/assets/css/navigators/sidebar.css">
+
+
+    
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'G-T5NPBXLHCW', 'auto');
 	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    
+  </head>
+
+  <body data-spy="scroll" data-target="#TableOfContents" data-offset="80">
+    <div class="container-fluid bg-dimmed wrapper">
+      
+      
+    
+
+
+  
+
+
+  
+
+
+<nav class="navbar navbar-expand-xl top-navbar final-navbar shadow">
+  <div class="container">
+      <button class="navbar-toggler navbar-light" id="sidebar-toggler" type="button" onclick="toggleSidebar()">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="/">
+      <img src="/images/site/Logo.png">Nikita🤖Sevostianov</a>
+    <button class="navbar-toggler navbar-light" id="toc-toggler" type="button" onclick="toggleTOC()">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse lang-selector" id="top-nav-items">
+      <ul class="navbar-nav ml-auto">
+      
+        
+
+  
+
+
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="languageSelector" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <img class="flag" src="https://www.countryflags.io/gb/flat/16.png">
+      English
+    </a>
+    <div class="dropdown-menu" aria-labelledby="languageSelector">
+      
+        <a class="dropdown-item nav-link languages-item" href="/ru/categories">
+          <img class="flag" src="https://www.countryflags.io/ru/flat/24.png">
+          Русский
+        </a>
+      
+    </div>
+</li>
+      
+      </ul>
+    </div>
+  </div>
+  
+  <img src="/images/site/Logo.png" class="d-none" id="main-logo">
+  <img src="/images/site/Logo.png" class="d-none" id="inverted-logo">
+</nav>
+
+
+
+      
+      
+  
+  
+    
+  
+
+  <section class="sidebar-section" id="sidebar-section">
+    <div class="sidebar-holder">
+      <div class="sidebar" id="sidebar">
+        <input type="text" value="" placeholder="Search" data-search="" id="search-box" />
+        <div class="sidebar-tree">
+          <ul class="tree" id="tree">
+            <li id="list-heading"><a href="/posts" data-filter="all">Posts</a></li>
+            <div class="subtree">
+                
+
+            </div>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+      
+      
+<section class="content-section" id="content-section">
+  <div class="content container-fluid" id="content">
+    <div class="container-fluid post-card-holder" id="post-card-holder">
+      
+      
+    </div>
+    <div class="paginator">
+      
+
+
+    </div>
+  </div>
+</section>
+
+
+      
+       
+    </div>
+
+    
+
+  
 
 
 
 
-
-<link rel="stylesheet" href="https://nikitasevostyanov.github.io/css/main.min.de56b55f59841949a4d7197e0d1e8389.css" crossorigin="anonymous" media="screen"
-	integrity="md5-3la1X1mEGUmk1xl+DR6DiQ==">
+  
 
 
 
 
+  
+  
+    
+  
 
 
+<footer class="container-fluid text-center align-content-center footer pb-2">
+  <div class="container pt-5">
+    <div class="row text-left">
+      <div class="col-md-4 col-sm-12">
+        <h5>Navigation</h5>
+        
+        <ul>
+            
+              
+              
+                
+              
+              <li class="nav-item">
+                <a class="smooth-scroll" href="#about">About</a>
+              </li>
+            
+            
+              
+              
+                
+              
+              <li class="nav-item">
+                <a class="smooth-scroll" href="#skills">Skills</a>
+              </li>
+            
+            
+              
+              
+                
+              
+              <li class="nav-item">
+                <a class="smooth-scroll" href="#experiences">Experiences</a>
+              </li>
+            
+            
+              
+              
+                
+              
+              <li class="nav-item">
+                <a class="smooth-scroll" href="#projects">Projects</a>
+              </li>
+            
+            
+              
+              
+                
+              
+              <li class="nav-item">
+                <a class="smooth-scroll" href="#recent-posts">Recent Posts</a>
+              </li>
+            
+            
+              
+              
+                
+              
+              <li class="nav-item">
+                <a class="smooth-scroll" href="#achievements">Achievements</a>
+              </li>
+            
+        </ul>
+        
 
-
-
-
-
-
-<link rel="stylesheet" href="https://nikitasevostyanov.github.io/style/style.min.d41d8cd98f00b204e9800998ecf8427e.css" crossorigin="anonymous" media="screen"
-	integrity="md5-1B2M2Y8AsgTpgAmY7PhCfg==">
-
-
-
-
-
-
-
-
-
-
-<link rel="stylesheet" href="https://nikitasevostyanov.github.io/css/main.min.d5d46344e3b621a3e3a173927106f45d.css" crossorigin="anonymous" media="screen"
-	integrity="md5-1dRjROO2IaPjoXOScQb0XQ==">
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-<script src="https://nikitasevostyanov.github.io/js/pico.min.080e99ad2af1d164e481893041700487.js" intergrity="md5-CA6ZrSrx0WTkgYkwQXAEhw==" crossorigin="anonymous"></script>
-
-
-</head>
-
-<body class="min-h-screen bg-white relative pb-24">
-	<div id="top"></div>
-
-<header class="w-full flex items-center justify-between px-5 mx-auto md:mt-8 md:max-w-5xl pt-2 md:pt-0">
-	
-	<div class="flex items-center">
-		<a href="https://nikitasevostyanov.github.io/" class="inline-block font-bold no-underline select-none">
-			<h1 class="hidden md:block font-charter tracking-normal m-0">
-				Nikita Sevostianov
-			</h1>
-
-			<div class="md:hidden">
-				<div class="w-8 h-8 relative font-bold bg-white blend-diff">
-	<h1 class="absolute-center m-0 font-charter text-2xl text-gray-100 blend-diff select-none">
-		N
-	</h1>
-</div>
-			</div>
-		</a>
-		
-		<div class="inline-block pl-2 ml-2 border-l border-gray-600">
-			
-			<a href="https://nikitasevostyanov.github.io/ru/categories/" class="no-underline inline-block px-1">
-				<span class="font-bold">
-					RU
-				</span>
-			</a>
-			
-		</div>
-		
-	</div>
-
-	<nav class="">
-		
-		<a href="/" class='mx-1 md:mx-2 hover:text-black no-underline'>
-			 Home
-		</a>
-		
-		<a href="/blog/" class='mx-1 md:mx-2 hover:text-black no-underline'>
-			 Blog
-		</a>
-		
-	</nav>
-</header>
-	
-
-	<main class="w-full px-4 pt-8 mx-auto md:max-w-4xl overflow-x-hidden md:overflow-visible ">
-<div class="w-full lg:w-1/3 lg:pr-8 lg:sticky top-12">
-	<p class="tracking-widest pb-0 text-xs text-gray-700">
-		TAGGED IN
-	</p>
-	<h2 class="mt-0 text-3xl">
-		CATEGORIES
-	</h2>
-	<div>
-		<hr>
-		<p class="mt-4 mb-2 text-sm">
-			Other tags
-		</p>
-		
-		
-		
-		
-		
-		
-		
-		
-		<div class="flex flex-wrap text-xs">
-			
-			<a href="/tags/projects" class="no-underline">
-				<div class="py-1 px-2 mr-2 mb-2 border rounded-md">
-					PROJECTS
-				</div>
-			</a>
-			
-			<a href="/tags/publications" class="no-underline">
-				<div class="py-1 px-2 mr-2 mb-2 border rounded-md">
-					PUBLICATIONS
-				</div>
-			</a>
-			
-		</div>
-	</div>
-</div>
-
-
-<div class="lg:pl-2 lg:w-2/3 lg:left-1/3 relative lg:-mt-24">
-	
-</div>
-
-	</main>
-
-	<div class="absolute bottom-0 w-full"><footer class="w-full h-24 text-center text-xs text-gray-400 bg-black relative">
-	<div class="w-full px-6 md:pt-0 md:mx-auto md:max-w-5xl flex flex-1 space-between items-center absolute-center">
-		<a href="https://nikitasevostyanov.github.io/" class="absolute">
-			<div class="w-8 h-8 relative font-bold bg-white blend-diff">
-	<h1 class="absolute-center m-0 font-charter text-2xl text-gray-100 blend-diff select-none">
-		N
-	</h1>
-</div>
-		</a>
-
-		<div class="h-full flex-1">
-			<span class="select-none">Designed by
-				<a href="https://github.com/negrel/" class="text-gray-400 hover:text-gray-200 no-underline">negrel</a>
-			</span>
-		</div>
-	</div>
+      </div>
+      
+      <div class="col-md-4 col-sm-12">
+        <h5>Contact me:</h5>
+        <ul>
+          
+          <li><span>Email: </span> <span>niksevostyanov97@gmail.com</span></li>
+          
+        </ul>
+      </div>
+      
+      
+    </div>
+  </div>
+  <hr />
+  <div class="container">
+    <div class="row text-left">
+      <div class="col-md-4">
+        <a id="theme" href="https://github.com/hossainemruz/toha" target="#">
+          <img src="/assets/images/inverted-logo.png">
+          Toha
+        </a>
+      </div>
+      <div class="col-md-4 text-center">Nikita Sevostianov</div>
+      <div class="col-md-4 text-right">
+        <a id="hugo" href="https://gohugo.io/">Powered by
+        <img
+          src="/assets/images/hugo-logo-wide.svg"
+          alt="Hugo Logo"
+          height="18"
+        />
+        </a>
+      </div>
+    </div>
+  </div>
 </footer>
-	</div>
-</body>
 
+    <script src="/assets/js/jquery-3.4.1.min.js"></script>
+<script src="/assets/js/popper.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+
+<script src="/assets/js/navbar.js"></script>
+<script src="/assets/js/main.js"></script>
+
+
+    
+    
+    <script src="/assets/js/list.js"></script>
+
+  </body>
 </html>
