@@ -16,5 +16,14 @@
       <description>Hello! </description>
     </item>
     
+    <item>
+      <title>Привет!</title>
+      <link>https://nikultimo.github.io/ru/posts/first-post/</link>
+      <pubDate>Sat, 26 Dec 2020 06:00:23 +0600</pubDate>
+      
+      <guid>https://nikultimo.github.io/ru/posts/first-post/</guid>
+      <description>Привет! </description>
+    </item>
+    
   </channel>
 </rss>

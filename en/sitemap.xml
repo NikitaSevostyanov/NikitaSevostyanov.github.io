@@ -28,6 +28,21 @@
   </url>
   
   <url>
+    <loc>https://nikultimo.github.io/ru/</loc>
+    <lastmod>2020-12-26T06:00:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikultimo.github.io/ru/posts/</loc>
+    <lastmod>2020-12-26T06:00:23+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikultimo.github.io/ru/posts/first-post/</loc>
+    <lastmod>2020-12-26T06:00:23+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nikultimo.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
