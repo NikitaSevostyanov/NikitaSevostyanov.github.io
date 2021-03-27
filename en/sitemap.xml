@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://nikultimo.github.io/posts/first-post/</loc>
     <lastmod>2020-12-26T06:00:23+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nikultimo.github.io/</loc>
     <lastmod>2020-12-26T06:00:23+06:00</lastmod>
     <xhtml:link
@@ -20,29 +17,19 @@
                 hreflang="en"
                 href="https://nikultimo.github.io/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nikultimo.github.io/posts/</loc>
     <lastmod>2020-12-26T06:00:23+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nikultimo.github.io/ru/</loc>
     <lastmod>2020-12-26T06:00:23+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nikultimo.github.io/ru/posts/</loc>
     <lastmod>2020-12-26T06:00:23+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nikultimo.github.io/ru/posts/first-post/</loc>
     <lastmod>2020-12-26T06:00:23+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nikultimo.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -54,9 +41,7 @@
                 hreflang="en"
                 href="https://nikultimo.github.io/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nikultimo.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -69,5 +54,4 @@
                 href="https://nikultimo.github.io/tags/"
                 />
   </url>
-  
 </urlset>
