@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hi!</title>
+    <title>Investment App</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -23,7 +23,7 @@
 <link rel="stylesheet" href="/assets/css/style.css"/>
 
     
-<meta name="description" content="My first post." />
+<meta name="description" content="First post." />
 <link
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/atom-one-dark.min.css"
@@ -106,7 +106,16 @@ if (!doNotTrack) {
   
   
     
-    <li><a class="active" href="/posts/first-post/">My first comment.</a></li>
+    <li><a class="active" href="/posts/first-post/">Investment App</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/ru/posts/post-2/">Инвестиционное приложение</a></li>
   
 
 
@@ -124,7 +133,7 @@ if (!doNotTrack) {
   <div class="content">
     <div class="container p-0 read-area">
       
-      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url(https://nikultimo.github.io/images/posts/writing-posts/first-post/hello.jpg);'>
+      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url(https://nikultimo.github.io/images/posts/writing-posts/first-post/GitHub.jpg);'>
       </div>
 
       
@@ -132,15 +141,52 @@ if (!doNotTrack) {
         <div class="author-profile ml-auto align-self-lg-center">
           <img class="rounded-circle" src='/images/author/Nikita.png'/>
           <h5 class="author-name">Nikita Sevostianov</h5>
-          <p>December 26, 2020</p>
+          <p>February 28, 2022</p>
         </div>
 
         <div class="title">
-          <h1>Hi!</h1>
+          <h1>Investment App</h1>
         </div>
 
         <div class="post-content" id="post-content">
-          <h3 id="hello">Hello!</h3>
+          <p>Investment app for better understanding your success in this sphere</p>
+<p><a href="https://github.com/nikultimo/InvestApp">Main Url</a></p>
+<h1 id="main-window">Main window</h1>
+<p><img src="https://user-images.githubusercontent.com/55857711/132381983-14898afa-c53e-480e-8488-94ad66ebb634.png" alt="image"></p>
+<h1 id="main-features">Main features</h1>
+<p>Via this app you can get information about your income from buyed shares in rubles. 
+This app uses Tinkoff API to connect to your investment portfolio. <a href="https://www.tinkoff.ru/invest/settings/">Get Tinkoff API token - official website</a></p>
+<p>After that app collects info about any existing in your portfolio stock. 
+It grabs the following info:</p>
+<ol>
+<li>Stock name (you need to type it manually)</li>
+<li>Real share cost - the last price from Tinkoff</li>
+<li>Amount of shares that you bought</li>
+<li>Average cost of share</li>
+</ol>
+<p>So the whole information is collected via API.
+And you can calculate the total income from any available stock in rubles. 
+Also you can measure a possible income from shares by changing real stock cost parameter.</p>
+<h1 id="main-features-1">Main features</h1>
+<ol>
+<li>Uses Tinkoff API Token</li>
+<li>Capable of importing / exporting API Token</li>
+<li>Capable of encrypting / decrypting the API Token file for secure using</li>
+<li>Displays your stocks' names in drop down box</li>
+<li>Compatibility with russian shares of stock</li>
+</ol>
+<h1 id="how-to-build-this-app">How to build this app?</h1>
+<ul>
+<li>Convert design file from QT Designer (.ui file) to python .py file:</li>
+</ul>
+<pre tabindex="0"><code>  pyuic5 InvestApp.ui -o InvestApp.py
+</code></pre><ul>
+<li>Build executable (.exe) file from main.py:</li>
+</ul>
+<pre tabindex="0"><code>  pip install auto-py-to-exe
+  auto-py-to-exe
+</code></pre><p>In this app you will need to specify main.py script location, some icons and images if you have them and after that you can convert your application to .exe file</p>
+<h1 id="thanks-for-time">Thanks for time!</h1>
 
         </div>
 
@@ -215,15 +261,7 @@ if (!doNotTrack) {
       <h5 class="text-center pl-3">Table of Contents</h5>
       <hr>
       <div class="toc">
-        <nav id="TableOfContents">
-  <ul>
-    <li>
-      <ul>
-        <li><a href="#hello">Hello!</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
+        <nav id="TableOfContents"></nav>
       </div>
     </div>
     
@@ -319,7 +357,7 @@ if (!doNotTrack) {
         <h5>Contact me:</h5>
         <ul>
           
-          <li><span>Email: </span> <span>nikultimo97@gmail.com</span></li>
+          <li><span>Email: </span> <span>nikultimo@mail.ru</span></li>
           
           <li><span>Github: </span> <span>https://github.com/nikultimo</span></li>
           

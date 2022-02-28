@@ -6,14 +6,18 @@
     <description>Recent content in Посты on Nikita Sevostianov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Dec 2020 06:00:23 +0600</lastBuildDate><atom:link href="https://nikultimo.github.io/ru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Feb 2022 15:18:23 +0600</lastBuildDate><atom:link href="https://nikultimo.github.io/ru/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Привет!</title>
-      <link>https://nikultimo.github.io/ru/posts/first-post/</link>
-      <pubDate>Sat, 26 Dec 2020 06:00:23 +0600</pubDate>
+      <title>Инвестиционное приложение</title>
+      <link>https://nikultimo.github.io/ru/posts/post-2/</link>
+      <pubDate>Mon, 28 Feb 2022 15:18:23 +0600</pubDate>
       
-      <guid>https://nikultimo.github.io/ru/posts/first-post/</guid>
-      <description>Привет! </description>
+      <guid>https://nikultimo.github.io/ru/posts/post-2/</guid>
+      <description>Инвестиционное приложение для лучшего понимания вашего успеха в этой сфере
+Основной URL
+Главное окно Основные характеристики Через это приложение вы можете получить информацию о своих доходах от купленных акций в рублях. Это приложение использует Tinkoff API для подключения к вашему инвестиционному портфелю. Получить токен Тинькофф API - официальный сайт
+После этого приложение собирает информацию обо всех имеющихся в вашем портфеле акциях. Он захватывает следующую информацию:
+ Название акции (нужно ввести вручную) Реальная стоимость акции - последняя цена от Тинькофф Количество акций, которые вы купили Средняя стоимость доли  Таким образом, вся информация собирается через API.</description>
     </item>
     
   </channel>
